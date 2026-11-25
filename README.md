@@ -2,7 +2,7 @@
 
 # CalorieQuest
 
-**An RPG-Style Fitness & Nutrition Tracker for HarmonyOS NEXT**
+**An RPG-Style Fitness & Nutrition Tracker for HarmonyOS**
 
 Transform your daily health activities into an epic adventure! CalorieQuest gamifies your fitness journey by turning workouts, nutrition, and hydration into RPG-style character progression.
 
@@ -67,7 +67,7 @@ CalorieQuest/
 # Constraints and Restrictions
 
 ## Supported Devices
-- **Target Device**: HarmonyOS NEXT Smartwatch
+- **Target Device**: HarmonyOS Smartwatch
 - **Form Factor**: Circular and square smartwatches (optimized layouts)
 
 - **Battery Efficiency**
